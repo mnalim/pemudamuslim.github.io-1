@@ -1,0 +1,5 @@
+
+-syntax untuk gambar 
+<span class="image main"><img src="" alt="" /></span>
+-syntax garis
+<hr class="major" />
