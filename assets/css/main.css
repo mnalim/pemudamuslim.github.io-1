@@ -3604,3 +3604,26 @@ input, select, textarea {
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+
+.tengah{
+	text-align:center;
+}
+.kiri{
+	text-align:left;
+}
+.kanan{
+	text-align:right;
+			}
+.arab{
+	text-align:center;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: black;
+}
+.arab2{
+	text-align:left;
+	font-size: 1.3em;
+	font-weight: bold;
+	color: black;
+}					
