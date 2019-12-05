@@ -3627,3 +3627,6 @@ input, select, textarea {
 	font-weight: bold;
 	color: black;
 }					
+  .right{
+    float: right;
+    display: block;
