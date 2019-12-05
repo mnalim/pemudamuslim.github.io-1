@@ -127,7 +127,7 @@ span.psw {
 </head>
 <center>
 <body>
-	<h2>Klik Login Untuk Lanjut</h2>
+	<h2>Klik Login Pemuda Muslim</h2>
 </body>
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
